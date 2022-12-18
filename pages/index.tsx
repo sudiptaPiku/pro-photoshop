@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { useEffect, useRef, useState } from 'react'
 import Webcam from 'react-webcam'
 import styles from '../styles/Home.module.css'
-import  {Button}  from './components/Button'
+import  Button  from './components/Button'
 import {Cloudinary, CloudinaryImage} from '@cloudinary/url-gen';
 
 const videoConstraints = {
