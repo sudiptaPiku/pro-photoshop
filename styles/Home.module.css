@@ -1,8 +1,8 @@
 .container {
     padding: 0 2rem;
     /* background color gradient */
-    background: rgb(47,120,110);
-    background: linear-gradient(8deg, rgba(47,120,110,1) 0%, rgba(47,120,110,1) 16%, rgba(255,255,255,1) 70%);
+    background: rgb(31,0,36);
+    background: linear-gradient(90deg, rgba(31,0,36,1) 7%, rgba(9,121,107,1) 45%, rgba(224,255,0,1) 100%);
   }
   
   .main {
